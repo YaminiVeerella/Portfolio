@@ -12,14 +12,12 @@ Experience: Details of internships, roles, and contributions to organizations.
 Achievements: Certifications, awards, and other recognitions.
 Contact: Ways to connect with me through email and social platforms.
 
-
 Key Features 🚀
 ✔ Clean and modern user interface
 ✔ Organized navigation for easy accessibility
 ✔ Downloadable resume option
 ✔ Interactive project showcase 
 ✔ Contact section with professional networking profiles
-
 
 🛠️Tech Stack
  HTML- structure and layout
@@ -36,5 +34,3 @@ If you’d like to collaborate, connect, or know more about me:
 💻 GitHub: github.com/yaminiveerella
 
 ✨ This portfolio is not just a website but a reflection of my professional journey. It will continue to grow as I gain more knowledge, skills, and experiences.
-
-
